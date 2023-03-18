@@ -15,7 +15,7 @@ public class Latihan1v2 {
     public static void main(String[] args) {
         BufferedReader dataIn = new BufferedReader (new InputStreamReader (System.in));
         int n;
-        
+        //
 
     }
     
