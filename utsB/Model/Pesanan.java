@@ -6,7 +6,7 @@ package utsB.Model;
 
 /**
  *
- * @author PC8
+ * @author TI 16
  */
 public class Pesanan {
      private String kodePesanan;
