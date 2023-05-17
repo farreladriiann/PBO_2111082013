@@ -6,7 +6,7 @@ package UTS_B.View;
 
 /**
  *
- * @author PC8
+ * @author TI 16
  */
 public class FormPeran extends javax.swing.JFrame {
 
